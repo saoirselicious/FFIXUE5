@@ -1,0 +1,328 @@
+[
+	{
+		"Name": "Cure",
+		"Equipment": ["Magic Racket", "Rod", "Silk Shirt"],
+		"Spell Power": 16,
+		"MP": 6,
+		"AP": 30,
+		"Description": "Restores HP of single/multiple targets.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Cura",
+		"Equipment": [	"Healing Rod", "Golem's Flute", "Barette"],
+		"Spell Power": 38,
+		"MP": 10,
+		"AP": 50,
+		"Description": "Restores a lot of HP of single/multiple targets.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Curaga",
+		"Equipment": [	"Whisker", "Hamelin", "Angel Flute"],
+		"Spell Power": 107,
+		"MP": 22,
+		"AP": 155,
+		"Description": "Restores big-time HP of single/multiple targets.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Regen",
+		"Equipment": [	"Fairy Flute", "Fairy Earrings"],
+		"Spell Power": 0,
+		"MP": 14,
+		"AP": 25,
+		"Description": "Gradually restores HP.",
+		"Element": "Healing",
+		"Status Effect": "Regen",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Life",
+		"Equipment": [	"Mythril Rod", "Healing Rod", "Whale Whisker"," Golem’s Flute", "Rebirth Ring", "Cachusha"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 30,
+		"Description": "Recover from KO..",
+		"Element": "None",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Full-Life",
+		"Equipment": [	"Mythril Rod", "Healing Rod", "Whale Whisker"," Golem’s Flute", "Rebirth Ring", "Cachusha"],
+		"Spell Power": 0,
+		"MP": 24,
+		"AP": 90,
+		"Description": "Recover from KO with full HP.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Scan",
+		"Equipment": [	"Air Racket", "Desert Boots"],
+		"Spell Power": 0,
+		"MP": 4,
+		"AP": 25,
+		"Description": "Scan enemy to determine HP, MP, and weaknesses.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Panacea",
+		"Equipment": [	"Air Racket", "Rod"],
+		"Spell Power": 0,
+		"MP": 4,
+		"AP": 15,
+		"Description": "Removes Venom and Poison.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Stona",
+		"Equipment": [	"Multina Racket"," Lamia's Flute"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 25,
+		"Description": "Removes Petrify and Gradual Petrify.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Esuna",
+		"Equipment": [	"Fairy Flute"," Siren's Flute", "Angel Flute", "Rubber Suit"],
+		"Spell Power": 0,
+		"MP": 20,
+		"AP": 80,
+		"Description": "Removes various abnormal status effects.",
+		"Element": "Healing",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Shell",
+		"Equipment": [	"Multina Racket", "Mythril Racket", "Mythril Rod", "Wizard Rod", "Cotton Robe", "Gold Choker", "Moonstone"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 35,
+		"Description": "Reduces damage from magic attacks.",
+		"Element": "Shell",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Protect",
+		"Equipment": ["Mythril Racket", "Rod, Wizard Rod", "Steepled Hat", "Desert Boots"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 30,
+		"Description": "Reduces damage from physical attacks.",
+		"Element": "None",
+		"Status Effect": "Pretect",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Haste",
+		"Equipment": [	"Fairy Flute", "Running Shoes", "Emerald"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 30,
+		"Description": "Speeds up ATB Gauge.",
+		"Element": "None",
+		"Status Effect": "Haste",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Silence",
+		"Equipment": [	"Priest's Racket", "Mythril Rod"," Asura's Rod","Lamia's Flute", "Magic Armlet"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 30,
+		"Description": "Causes Silence, which disables magic in single/multiple targets.",
+		"Element": "None",
+		"Status Effect": "Silence",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Mini",
+		"Equipment":["Magic Racket", "Asura's Rod"," Feather Boots"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 40,
+		"Description": "Makes single/multiple targets smaller.",
+		"Element": "None",
+		"Status Effect": "Mini",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Reflect",
+		"Equipment":["Mythril Racket", "Stardust Rod"," Reflect Ring", "Ruby"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 20,
+		"Description": "Reflects magic attacks back onto caster.",
+		"Element": "None",
+		"Status Effect": "Reflect",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Confuse",
+		"Equipment":["Asura's Rod", "Lamia's Tiara"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 35,
+		"Description": "Causes Confuse, which makes single/multiple targets erratic.",
+		"Element": "None",
+		"Status Effect": "Confuse",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Berserk",
+		"Equipment":["Magic Racket"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 30,
+		"Description": "Causes single/multiple targets to attack uncontrollably.",
+		"Element": "None",
+		"Status Effect": "Berserk",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Bind",
+		"Equipment":["Multina Racket", "Magician Shoes"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 40,
+		"Description": "Causes Darkness, which hinders accuracy of physical attacks.",
+		"Element": "None",
+		"Status Effect": "Darkness",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'"
+		]
+	},
+	{
+		"Name": "Float",
+		"Equipment":["Stardust Rod", "Lamia's Flute", "Feather Boots"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 20,
+		"Description": "Allows single/multiple targets to float in the air.",
+		"Element": "None",
+		"Status Effect": "Float",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Dagger.BP_Dagger_C'",
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Dispel",
+		"Equipment":["Tiger Racket", "Siren's Flute"],
+		"Spell Power": 0,
+		"MP": 16,
+		"AP": 35,
+		"Description": "Removes abnormal status caused by magic attacks.",
+		"Element": "None",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Might",
+		"Equipment":["Priest's Racket", "Hamelin"],
+		"Spell Power": 0,
+		"MP": 14,
+		"AP": 25,
+		"Description": "Raises physical attack power.",
+		"Element": "None",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Jewel",
+		"Equipment":["Hamelin"],
+		"Spell Power": 0,
+		"MP": 4,
+		"AP": 50,
+		"Description": "Extracts Ore from a target.",
+		"Element": "None",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	},
+	{
+		"Name": "Holy",
+		"Equipment":["Angel Flute"," White Robe"],
+		"Spell Power": 113,
+		"MP": 36,
+		"AP": 110,
+		"Description": "Causes Holy damage.",
+		"Element": "None",
+		"Status Effect": "None",
+		"Users": [
+			"BlueprintGeneratedClass'/Game/Blueprints/BP_Eiko.BP_Eiko_C'"
+		]
+	}
+
+
+]

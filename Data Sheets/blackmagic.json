@@ -1,0 +1,220 @@
+[
+	{
+		"Name": "Fire",
+		"Equipment": [
+			"Mage Staff", "Leather Hat"
+		],
+		"Spell Power": 14,
+		"MP": 6,
+		"AP": 20,
+		"Description": "Causes Fire damage to single/multiple targets.",
+		"Element": "Fire"
+	},
+	{
+		"Name": "Fira",
+		"Equipment": ["Flame Staff", "Mage's Hat", "Topaz", "Power Belt"],
+		"Spell Power": 29,
+		"MP": 12,
+		"AP": 50,
+		"Description": "Causes a lot of Fire damage to single/multiple targets.",
+		"Element": "Fire"
+	},
+	{
+		"Name": "Firaga",
+		"Equipment": ["Octagon Rod"],
+		"Spell Power": 72,
+		"MP": 24,
+		"AP": 75,
+		"Description": "Causes big-time Fire damage to single/multiple targets.",
+		"Element": "Fire"
+	},
+	{
+		"Name": "Sleep",
+		"Equipment": ["Flame Staff"],
+		"Spell Power": 0,
+		"MP": 10,
+		"AP": 20,
+		"Description": "Puts single/multiple targets to sleep.",
+		"Element": "None"
+	},
+	{
+		"Name": "Blizzard",
+		"Equipment": ["Leather Wrist"],
+		"Spell Power": 14,
+		"MP": 6,
+		"AP": 25,
+		"Description": "Causes Ice damage to single/multiple targets.",
+		"Element": "Ice"
+	},
+	{
+		"Name": "Blizzara",
+		"Equipment": ["Ice Staff", "Opal"],
+		"Spell Power": 29,
+		"MP": 12,
+		"AP": 50,
+		"Description": "Causes a lot of Ice damage to single/multiple targets.",
+		"Element": "Ice"
+	},
+	{
+		"Name": "Blizzaga",
+		"Equipment": ["Octagon Rod"],
+		"Spell Power": 72,
+		"MP": 24,
+		"AP": 85,
+		"Description": "Causes big-time Ice damage to single/multiple targets.",
+		"Element": "Ice"
+	},
+	{
+		"Name": "Slow",
+		"Equipment": ["Ice Staff", "Magus Hat"],
+		"Spell Power": 0,
+		"MP": 6,
+		"AP": 20,
+		"Description": "Slows down ATB Gauge.",
+		"Element": "None"
+	},
+	{
+		"Name": "Thunder",
+		"Equipment": ["Glass Buckle", "Silk Shirt"],
+		"Spell Power": 14,
+		"MP": 6,
+		"AP": 25,
+		"Description": "Causes Thunder damage to single/multiple targets.",
+		"Element": "Lightning"
+	}, 
+	{
+		"Name": "Thundara",
+		"Equipment": ["Lightning Staff", "Peridot"],
+		"Spell Power": 29,
+		"MP": 12,
+		"AP": 50,
+		"Description": "Causes a lot of Thunder damage to single/multiple targets.",
+		"Element": "Lightning"
+	},
+	{
+		"Name": "Thundaga",
+		"Equipment": ["Octagon Rod"],
+		"Spell Power": 0,
+		"MP": 0,
+		"AP": 0,
+		"Description": "Causes big-time Thunder damage to single/multiple targets.",
+		"Element": "Lightning"
+	},
+	{
+		"Name": "Stop",
+		"Equipment": ["Oak Staff"],
+		"Spell Power": 72,
+		"MP": 24,
+		"AP": 80,
+		"Description": "Stops targets from taking any action.",
+		"Element": "None"
+	},
+	{
+		"Name": "Poison",
+		"Equipment": ["Lightning Staff"],
+		"Spell Power": 0,
+		"MP": 8,
+		"AP": 35,
+		"Description": "Causes Poison to single/multiple targets.",
+		"Element": "None"
+	},
+	{
+		"Name": "Bio",
+		"Equipment": ["Oak Staff"],
+		"Spell Power": 42,
+		"MP": 18,
+		"AP": 40,
+		"Description": "Causes Non-elemental damage and Poison to single/multiple targets.",
+		"Element": "None"
+	},
+	{
+		"Name": "Osmose",
+		"Equipment": ["High Mage Staff","Gaia Gear"],
+		"Spell Power": 15,
+		"MP": 2,
+		"AP": 70,
+		"Description": "Absorbs MP from the target and transfers it to the spell caster.",
+		"Element": "None"
+	},
+	{
+		"Name": "Drain",
+		"Equipment": ["Oak Staff"],
+		"Spell Power": 32,
+		"MP": 14,
+		"AP": 60,
+		"Description": "Drains HP from the target and transfers it to the spell caster.",
+		"Element": "None"
+	},
+	{
+		"Name": "Demi",
+		"Equipment": ["Cypress Pile", "Amethyst", "Black Belt"],
+		"Spell Power": 30,
+		"MP": 18,
+		"AP": 30,
+		"Description": "Amount of damage depends on the target's HP.",
+		"Element": "None"
+	},
+	{
+		"Name": "Comet",
+		"Equipment": ["Cypress Pile"],
+		"Spell Power": 56,
+		"MP": 16,
+		"AP": 55,
+		"Description": "Causes Non-elemental damage.",
+		"Element": "None"
+	},
+	{
+		"Name": "Death",
+		"Equipment": ["Black Hood"],
+		"Spell Power": 0,
+		"MP": 20,
+		"AP": 45,
+		"Description": "KOs the target.",
+		"Element": "None"
+	},
+	{
+		"Name": "Break",
+		"Equipment": [ "Cypress Pile"],
+		"Spell Power": 0,
+		"MP": 18,
+		"AP": 30,
+		"Description": "Causes Petrify.",
+		"Element": "None"
+	},
+	{
+		"Name": "Water",
+		"Equipment": ["N-Kai Armlet"],
+		"Spell Power": 64,
+		"MP": 22,
+		"AP": 55,
+		"Description": "Causes Water damage to single/multiple targets.",
+		"Element": "Water"
+	},
+	{
+		"Name": "Meteor",
+		"Equipment": ["High Mage Staff"],
+		"Spell Power": 88,
+		"MP": 42,
+		"AP": 95,
+		"Description": "Causes Non-elemental damage to all enemies.",
+		"Element": "None"
+	},
+	{
+		"Name": "Flare",
+		"Equipment": ["Black Robe"],
+		"Spell Power": 119,
+		"MP": 40,
+		"AP": 95,
+		"Description": "Causes Non-elemental damage.",
+		"Element": "None"
+	},
+	{
+		"Name": "Doomsday",
+		"Equipment": ["Mace of Zeus"],
+		"Spell Power": 112,
+		"MP": 72,
+		"AP": 150,
+		"Description": "Causes Shadow damage to all targets.",
+		"Element": "None"
+	}
+]
